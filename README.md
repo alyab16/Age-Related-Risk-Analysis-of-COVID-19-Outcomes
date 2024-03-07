@@ -31,3 +31,8 @@ The results of the analysis provide strong evidence that the risk of dying from 
 To run the analysis, you will need R and RStudio installed on your computer. You will also need to install the necessary R packages, which are listed at the beginning of the R Markdown file.
 
 Once you have everything set up, you can run the analysis by opening the `COVID-19 Age Group Analysis.Rmd` file in RStudio and clicking the "Knit" button. This will run the code and generate the `COVID-19 Age Group Analysis.pdf` file.
+
+
+## Note
+
+The data used in this project is up to date as of March 2024. For the most accurate and current results, you may need to update the data extraction sections with more recent URLs or use a different method to obtain the most recent stock and revenue data.
