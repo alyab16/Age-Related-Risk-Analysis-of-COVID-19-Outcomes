@@ -6,8 +6,6 @@ This repository contains an R Markdown file that performs a comprehensive analys
 
 - `COVID-19 Age Group Analysis.Rmd`: This R Markdown file contains the code for the analysis. It includes data cleaning, visualization, hypothesis testing, regression analysis, and model validation.
 
-- `COVID19_cases.csv`: This CSV file contains the data used in the analysis. It includes information about confirmed COVID-19 cases, such as age group and outcome (fatal or resolved).
-
 - `COVID-19 Age Group Analysis.pdf`: This PDF file is the knitted output of the R Markdown file. It includes both the code and the results of the analysis, including tables and plots.
 
 ## Analysis Overview
